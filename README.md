@@ -1,16 +1,9 @@
 # speechtotextflutter
 
-A new Flutter project.
+A Flutter project aimed at using the Voice Recognition functionality to print words spoken by the speaker onto the app screen
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone this repo and you're all set!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
